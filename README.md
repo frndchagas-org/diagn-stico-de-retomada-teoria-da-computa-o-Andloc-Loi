@@ -10,15 +10,15 @@ Responda individualmente. Use suas palavras. Se usar IA depois da primeira tenta
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
 - alfabeto: lembro bem
-- cadeia: não tenho certeza
+- cadeia: lembro parcialmente
 - linguagem: lembro parcialmente
 - gramática: lembro parcialmente
 - autômato finito: lembro bem
 - linguagem regular: lembro parcialmente
 - linguagem livre de contexto: lembro parcialmente
-- linguagem sensível ao contexto:
-- linguagem irrestrita:
-- hierarquia de Chomsky: nunca vi
+- linguagem sensível ao contexto: embro bem
+- linguagem irrestrita: embro bem
+- hierarquia de Chomsky: embro parcialmente
 - computabilidade: lembro bem
 - máquina de Turing: lembro bem
 
