@@ -16,9 +16,9 @@ Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi
 - autômato finito: lembro bem
 - linguagem regular: lembro parcialmente
 - linguagem livre de contexto: lembro parcialmente
-- linguagem sensível ao contexto: embro bem
-- linguagem irrestrita: embro bem
-- hierarquia de Chomsky: embro parcialmente
+- linguagem sensível ao contexto: lembro bem
+- linguagem irrestrita: lembro bem
+- hierarquia de Chomsky: lembro parcialmente
 - computabilidade: lembro bem
 - máquina de Turing: lembro bem
 
